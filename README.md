@@ -3,7 +3,9 @@
 </p>
 
 <p align="center"><br>
-    ![](https://images-ext-1.discordapp.net/external/3IqoZiGAWQMO-YQoBZ5lanetXk0k50G5PfCBdxPM8FU/https/r2.e-z.host/a9f800ce-09b4-43f9-bcf8-0bf8441c44bc/rncxvt3x.gif?width=750&height=422)
+    <a> href="https://github.com/@r0sc">
+	    <img src="https://images-ext-1.discordapp.net/external/3IqoZiGAWQMO-YQoBZ5lanetXk0k50G5PfCBdxPM8FU/https/r2.e-z.host/a9f800ce-09b4-43f9-bcf8-0bf8441c44bc/rncxvt3x.gif?width=750&height=422">
+    </a>
 </p>
 
 <br><br>

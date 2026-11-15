@@ -19,16 +19,16 @@ r0sc@github:~$ ./stats.sh
  followers : 8
  following : 8
  uptime    : 4y 7m
- languages : Rust (1), CSS (1), Java (1), HTML (1)
+ languages : Python (1), Rust (1), CSS (1), Java (1), HTML (1)
 
 r0sc@github:~$ ls -t repos/
- Rustcord/  # Lightweight unofficial Discord client written from scratch in Rust (egui + tokio)
  r0sc/  # My personal repo
+ Rustcord/  # Lightweight unofficial Discord client written from scratch in Rust (egui + tokio)
  r0sc.github.io/
  MemeSwiper/
  skid/
 
-# updated 2026-11-15 22:57 UTC
+# updated 2026-11-15 23:00 UTC
 # stats:end
 
 r0sc@github:~$ _
